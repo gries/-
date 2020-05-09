@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<phpunit>
+<testsuite name='🙂'>
+    <directory suffix='.php'>./🧪</directory>
+</testsuite>
+</phpunit>
